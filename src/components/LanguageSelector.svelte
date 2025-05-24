@@ -21,21 +21,21 @@
 <div class="language-selector">
   <button 
     class={currentLocale === 'en' ? 'active' : ''} 
-    onclick={() => setLanguage('en')}
+    on:click={() => setLanguage('en')}
     aria-label="English"
   >
     EN
   </button>
   <button 
     class={currentLocale === 'pt' ? 'active' : ''} 
-    onclick={() => setLanguage('pt')}
+    on:click={() => setLanguage('pt')}
     aria-label="Português"
   >
     PT
   </button>
   <button 
     class={currentLocale === 'es' ? 'active' : ''} 
-    onclick={() => setLanguage('es')}
+    on:click={() => setLanguage('es')}
     aria-label="Español"
   >
     ES

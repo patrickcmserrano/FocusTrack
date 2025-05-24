@@ -1,11 +1,21 @@
 export default {
-  "app.title": "Template Svelte com Tema",
-  "app.subtitle": "Um modelo básico de aplicação Svelte com suporte a tema claro/escuro.",
+  "app.title": "FocusTrack",
+  "app.subtitle": "Um aplicativo de gerenciamento de tarefas com integração Pomodoro",
   "features.title": "Recursos Incluídos",
   "features.theme": "Alternância de tema claro/escuro",
   "features.accessibility": "Acessibilidade básica",
   "features.typescript": "Suporte ao TypeScript",
   "features.testing": "Testes unitários e e2e",
   "features.i18n": "Suporte à internacionalização",
-  "footer.copyright": "© 2025 Template Svelte. Construído com Svelte."
+  "footer.copyright": "© 2025 FocusTrack. Gerencie seu tempo com eficiência.",
+  "tasks.current": "Tarefa Atual",
+  "tasks.today": "Tarefas de Hoje",
+  "tasks.tomorrow": "Tarefas de Amanhã",
+  "tasks.history": "Histórico de Tarefas",
+  "tasks.noTasks": "Sem Tarefa Atual",
+  "tasks.noTasksMessage": "Não há nenhuma tarefa programada para o horário atual.",
+  "tasks.complete": "Concluir",
+  "pomodoro.start": "Pomodoro",
+  "pomodoro.stop": "Parar",
+  "pomodoro.title": "Timer Pomodoro"
 };

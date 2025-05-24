@@ -1,11 +1,21 @@
 export default {
-  "app.title": "Plantilla Svelte con Tema",
-  "app.subtitle": "Un modelo básico de aplicación Svelte con soporte para tema claro/oscuro.",
+  "app.title": "FocusTrack",
+  "app.subtitle": "Una aplicación de gestión de tareas con integración Pomodoro",
   "features.title": "Características Incluidas",
   "features.theme": "Alternancia de tema claro/oscuro",
   "features.accessibility": "Accesibilidad básica",
   "features.typescript": "Soporte para TypeScript",
   "features.testing": "Pruebas unitarias y e2e",
   "features.i18n": "Soporte para internacionalización",
-  "footer.copyright": "© 2025 Plantilla Svelte. Construido con Svelte."
+  "footer.copyright": "© 2025 FocusTrack. Gestiona tu tiempo con eficiencia.",
+  "tasks.current": "Tarea Actual",
+  "tasks.today": "Tareas de Hoy",
+  "tasks.tomorrow": "Tareas de Mañana",
+  "tasks.history": "Historial de Tareas",
+  "tasks.noTasks": "Sin Tarea Actual",
+  "tasks.noTasksMessage": "No hay ninguna tarea programada para la hora actual.",
+  "tasks.complete": "Completar",
+  "pomodoro.start": "Pomodoro",
+  "pomodoro.stop": "Detener",
+  "pomodoro.title": "Temporizador Pomodoro"
 };
